@@ -1,7 +1,7 @@
 {
   "name": "express-blog-intro",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/Michael-Pellizzato/express-blog-intro.git"
   },
-  "author": "",
+  "author": "Michael",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Michael-Pellizzato/express-blog-intro/issues"
